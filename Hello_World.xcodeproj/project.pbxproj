@@ -101,8 +101,7 @@
 		BA4EA4001F72C4A600B75DF1 /* Hello_World */ = {
 			isa = PBXGroup;
 			children = (
-				BA4EA4041F72C4A600B75DF1 /* AppDelegate.h */,
-				BA4EA4051F72C4A600B75DF1 /* AppDelegate.m */,
+				BA4EA4341F72C54500B75DF1 /* Support */,
 				BA4EA4071F72C4A600B75DF1 /* ViewController.h */,
 				BA4EA4081F72C4A600B75DF1 /* ViewController.m */,
 				BA4EA40A1F72C4A600B75DF1 /* Main.storyboard */,
@@ -138,6 +137,15 @@
 				BA4EA4281F72C4A600B75DF1 /* Info.plist */,
 			);
 			path = Hello_WorldUITests;
+			sourceTree = "<group>";
+		};
+		BA4EA4341F72C54500B75DF1 /* Support */ = {
+			isa = PBXGroup;
+			children = (
+				BA4EA4041F72C4A600B75DF1 /* AppDelegate.h */,
+				BA4EA4051F72C4A600B75DF1 /* AppDelegate.m */,
+			);
+			name = Support;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
